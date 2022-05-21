@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @antoniodfg
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning more about Data
+- 💞️ I’m looking to collaborate on exciting projects
+- 📫 How to reach me [LinkedIn](https://linkedin.com/in/antoniodfg)
