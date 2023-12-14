@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @antoniodfg
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently developing my skills in Data
+- 🌱 I’m currently developing my skills in Software Architecture
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me [LinkedIn](https://linkedin.com/in/antoniodfg)
